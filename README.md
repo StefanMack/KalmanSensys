@@ -1,7 +1,13 @@
 # KalmanSensys
 Einführung in die g-h-Filter, Statistik und Kalmanfilter zur Sensorsignalverarbeitung
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/StefanMack/KalmanSensys/master)
+
 Dieses Repository befindet sich noch im Aufbau. Es wird am dem Sommersemester 2019 in der Vorlesung Sensorsyteme und im dazugehörigen Projekt Verwendung finden.
+
+> Hinweis: Wenn Sie oben im File Explorer auf eine der beiden Jupyter Notebooks (Endung ".ipnyb") klicken, dann wird lediglich ein Viewer geöffnet, in dem Sie das Notebook nur anschauen können. Möchten Sie die Codebeispiele darin einzeln ausführen und ändern, dann klicken Sie bitte auf das Icon "launch|binder". **Das Starten des Webservice binder kann bis zu einer Minute dauern.**
+
+
 
 License
 -----
