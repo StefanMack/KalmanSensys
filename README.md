@@ -5,6 +5,13 @@ Einführung in die g-h-Filter, Statistik und Kalmanfilter zur Sensorsignalverarb
 
 Dieses Repository befindet sich noch im Aufbau. Es wird am dem Sommersemester 2019 in der Vorlesung Sensorsyteme und im dazugehörigen Projekt Verwendung finden.
 
+### Übersicht der einzelen Jupyter-Notebooks:
+1. Der g-h-Filter am Beispiel eines Abstandssensors.
+2. Beispiele zum g-h-Filter
+3. Der Bayes-Filter am Beispiel des Trackings eines Roboterfahrzeugs
+4. Grundlagen der Statistik (noch in Arbeit)
+5. Der eindimensionale Kalmanfilter (noch in Arbeit)
+
 > Hinweis: Wenn Sie oben im File Explorer auf eine der beiden Jupyter Notebooks (Endung ".ipnyb") klicken, dann wird lediglich ein Viewer geöffnet, in dem Sie das Notebook nur anschauen können. Möchten Sie die Codebeispiele darin einzeln ausführen und ändern, dann klicken Sie bitte auf das Icon "launch|binder". **Das Starten des Webservice binder kann bis zu einer Minute dauern.**
 
 
