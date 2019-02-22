@@ -14,7 +14,7 @@ Dieses Repository befindet sich noch im Aufbau. Es wird am dem Sommersemester 20
 6. Der eindimensionale Kalmanfilter (noch in Arbeit)
 
 > Hinweis: Wenn Sie oben im File Explorer auf eine der beiden Jupyter Notebooks (Endung ".ipnyb") klicken, dann wird lediglich ein Viewer geöffnet, in dem Sie das Notebook nur anschauen können. Dieser Viewer funktioniert nicht immer zuverlässig.  
-Daher verwenden Sie zum Anschauen der Notebooks besser den Viewer "nbviewer" [über diesen Link](https://nbviewer.jupyter.org/github/StefanMack/KalmanSensys/blob/master/00-EinlSensysKalman.ipynb).  
+Daher verwenden Sie zum Anschauen der Notebooks besser den Viewer "nbviewer" [über diesen Link](https://nbviewer.jupyter.org/github/StefanMack/KalmanSensys/blob/master/00-EinlSensysKalm.ipynb).  
 Möchten Sie die Codebeispiele darin einzeln ausführen und ändern, dann klicken Sie bitte auf das Icon "launch|binder". **Das Starten des Webservice binder kann bis zu einer Minute dauern.**
 
 
