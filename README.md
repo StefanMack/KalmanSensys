@@ -5,7 +5,7 @@ Einführung in die g-h-Filter, Statistik und Kalmanfilter zur Sensorsignalverarb
 
 Dieses Repository befindet sich noch im Aufbau. Es wird am dem Sommersemester 2019 in der Vorlesung Sensorsyteme und im dazugehörigen Projekt Verwendung finden.
 
-### Übersicht der einzelen Jupyter-Notebooks:
+### Übersicht der einzelnen Jupyter-Notebooks:
 1. Der g-h-Filter am Beispiel eines Abstandssensors.
 2. Beispiele zum g-h-Filter
 3. Der Bayes-Filter am Beispiel des Trackings eines Roboterfahrzeugs, Teil 1
