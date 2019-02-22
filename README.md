@@ -15,7 +15,9 @@ Dieses Repository befindet sich noch im Aufbau. Es wird am dem Sommersemester 20
 
 > Hinweis: Wenn Sie oben im File Explorer auf eine der beiden Jupyter Notebooks (Endung ".ipnyb") klicken, dann wird lediglich ein Viewer geöffnet, in dem Sie das Notebook nur anschauen können. Dieser Viewer funktioniert nicht immer zuverlässig.  
 Daher verwenden Sie zum Anschauen der Notebooks besser den Viewer "nbviewer" [über diesen Link](https://nbviewer.jupyter.org/github/StefanMack/KalmanSensys/blob/master/00-EinlSensysKalm.ipynb).  
-Möchten Sie die Codebeispiele darin einzeln ausführen und ändern, dann klicken Sie bitte für das jeweilige auf nbviewer geöffnetet Notebook recht oben auf das Menüitem "Execute on Binder" (Icon mit drei Ringen). **Das Starten des Webservice binder kann bis zu einer Minute dauern.**
+Möchten Sie die Codebeispiele darin einzeln ausführen und ändern, dann klicken Sie bitte für das jeweils geöffnete Notebook *im nbviewer* rechts oben auf das Menüitem "Execute on Binder" (Icon mit drei Ringen). Dadurch wird für dieses Notebook der Webservice Binder gestartet.  
+Alternativ können Sie auch auf den schwarzroten Button "launch|binder" oben auf dieser Seite klicken. Damit gelangen Sie ebenfalls zu diesem Webserver, können anschließend aber unter den verschiedenen Notebooks auswählen.  
+**Das Starten des Webservice binder kann bis zu einer Minute dauern.**
 
 
 
