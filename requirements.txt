@@ -1,6 +1,5 @@
 matplotlib
 numpy
 scipy
-copy
 collections
 time
