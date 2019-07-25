@@ -3,7 +3,7 @@ Einführung in die g-h-Filter, Statistik und Kalmanfilter zur Sensorsignalverarb
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/StefanMack/KalmanSensys/master)
 
-Dieses Repository befindet sich noch im Aufbau. Es wird am dem Sommersemester 2019 in der Vorlesung Sensorsyteme und im dazugehörigen Projekt Verwendung finden.
+Dieses Repository ist nun in der ersten Version fertig. Es findet seit dem Sommersemester 2019 in der Vorlesung Sensorsyteme und im dazugehörigen Projekt Verwendung.
 
 ### Übersicht der einzelnen Jupyter-Notebooks:
 1. Der g-h-Filter am Beispiel eines Abstandssensors.
@@ -13,6 +13,9 @@ Dieses Repository befindet sich noch im Aufbau. Es wird am dem Sommersemester 20
 5. Grundlagen der Wahrscheinlichkeitsrechnung
 6. Der eindimensionale Kalmanfilter, Teil 1 Grundlagen
 5. Der eindimensionale Kalmanfilter, Teil 2 Simulationen
+6. Mehrdimensionale Gaußverteilungen
+7. Der mehrdimensionale Kalman-Filter, Teil 1 Grundlagen
+8. Der mehrdimensionale Kalman-Filter, Teil 2 Simulationen
 
 > Hinweis: Wenn Sie oben im File Explorer auf eine der beiden Jupyter Notebooks (Endung ".ipnyb") klicken, dann wird lediglich ein Viewer geöffnet, in dem Sie das Notebook nur anschauen können. Dieser Viewer funktioniert nicht immer zuverlässig.  
 Daher verwenden Sie zum Anschauen der Notebooks besser den Viewer "nbviewer" [über diesen Link](https://nbviewer.jupyter.org/github/StefanMack/KalmanSensys/tree/master/).  
