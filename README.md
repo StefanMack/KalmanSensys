@@ -3,7 +3,7 @@ Einführung in die g-h-Filter, Statistik und Kalmanfilter zur Sensorsignalverarb
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/StefanMack/KalmanSensys/master)
 
-Dieses Repository ist nun in der ersten Version fertig. Es findet seit dem Sommersemester 2019 in der Vorlesung Sensorsyteme und im dazugehörigen Projekt Verwendung.
+Dieses Repository ist nun in der ersten Version fertig. Es findet seit dem Sommersemester 2019 in der Vorlesung Sensorsysteme und im dazugehörigen Projekt Verwendung.
 
 ### Übersicht der einzelnen Jupyter-Notebooks:
 1. Der g-h-Filter am Beispiel eines Abstandssensors.
